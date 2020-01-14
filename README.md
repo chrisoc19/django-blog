@@ -1,7 +1,3 @@
-# Code Institute
+# Django Blog Mini-Project 
 
-Welcome chrisoc19,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+[![Build Status](https://travis-ci.org/chrisoc19/django-blog.svg?branch=master)](https://travis-ci.org/chrisoc19/django-blog)
